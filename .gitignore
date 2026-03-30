@@ -17,3 +17,6 @@ node_modules
 
 *.mp4
 public/mappings/
+.env
+.env.local
+.env.docker
